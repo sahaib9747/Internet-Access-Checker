@@ -4,4 +4,4 @@ it's a nominal internet checker, it's just try to reach google, if status code m
 
 # Pre-Requisites:
 
-You have to install 'requests' module by using this commmand 'pip3 install requests'. all done !
+You have to install 'requests' module by using this commmand 'pip3 install requests' on cmd/command prompt. all done !
